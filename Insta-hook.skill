@@ -1,0 +1,64 @@
+Instagram Hook Generator
+
+Turn a creator's niche and content script into 5 scroll-stopping hooks.
+
+Step 1: Collect inputs
+
+Ask the user these two questions. If they've already given an answer in the conversation, don't ask it again.
+
+What is your Instagram niche? (e.g., fitness for busy moms, personal finance for Gen Z, skincare, travel on a budget, SaaS founder tips)
+What is your content script? Ask them to paste the full script or a clear summary of the Reel/post: the main point, the story, and the takeaway.
+
+Ask both in one short message. Don't proceed until you have both. If the script is vague (fewer than ~2 sentences), ask one follow-up for the core point or payoff.
+
+Step 2: Analyze before writing (internally)
+
+Before writing hooks, identify:
+
+The audience in this niche and their biggest pain, desire, or fear
+The core promise or payoff of the script
+The most surprising, specific, or emotional element in the script (a number, a result, a mistake, a contrarian take)
+Step 3: Write 5 hooks
+
+Write exactly 5 hooks, each using a different angle. Use these angles, one each:
+
+Curiosity gap: opens a loop the viewer needs closed ("Nobody tells you this about...")
+Bold or contrarian claim: challenges a common belief ("Stop doing X. It's why you're not growing.")
+Specific result or number: concrete outcome, timeframe, or stat ("I gained 10k followers in 30 days doing one thing.")
+Pain-point callout: speaks directly to a frustration ("If your Reels get stuck at 200 views, watch this.")
+Story or pattern interrupt: a mini-story, confession, or unexpected opener ("I almost quit last year. Then I found this.")
+Hook quality rules
+Short: spoken hooks under ~12 words; on-screen text under ~8 words.
+Specific over generic: use details from the user's script. No filler like "Hey guys" or "In today's video".
+Honest: the hook must be delivered by the script. No clickbait the content can't pay off.
+Natural spoken language: it should sound like a person talking, not an ad.
+No clichés: avoid "game-changer", "you won't believe", "secret hack" unless truly earned.
+Niche-native: use the vocabulary the niche's audience actually uses.
+Step 4: Output format
+
+For each hook provide:
+
+Hook #N: [Angle name]
+
+Spoken line: the exact first line to say
+On-screen text: a shorter version for the text overlay
+Why it works: one sentence
+
+Then end with:
+
+Top pick: which hook is strongest for this script and why (one sentence)
+Offer: ask if they want the 5 hooks rewritten in a different tone (funnier, more serious, more aggressive) or want a matching first-3-seconds visual idea for any hook.
+Example
+
+Input
+
+Niche: Personal finance for college students
+Script: Explains that most students waste money on subscriptions, shows how to audit them in 5 minutes, and saves $47/month.
+
+Output (abridged) Hook #1: Curiosity gap
+
+Spoken line: "There's a $47 leak in your bank account right now, and you've never noticed it."
+On-screen text: "Your hidden $47/month leak"
+Why it works: Creates an open loop around something personal and money-related.
+
+(...continue through Hook #5, then Top pick and Offer.)
